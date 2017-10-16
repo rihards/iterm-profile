@@ -79,6 +79,7 @@
     "Green Component" : 0.3591606020927429
   },
   "Shortcut" : "",
+  "Background Image Location" : "",
   "Bold Color" : {
     "Red Component" : 0.7529412,
     "Color Space" : "sRGB",
@@ -283,7 +284,7 @@
     "Blue Component" : 0.80784315,
     "Green Component" : 0.77254903
   },
-  "Command" : "",
+  "Command" : "login -fp USERNAME",
   "Terminal Type" : "xterm",
   "Horizontal Spacing" : 1,
   "Option Key Sends" : 0,
